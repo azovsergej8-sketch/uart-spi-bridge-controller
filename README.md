@@ -50,4 +50,4 @@ To run the simulation in a local environment (ModelSim/QuestaSim):
 
 Author: Sergey Azov,
 
-Candidate for Intern FPGA Design roles at YADRO.
+Candidate for Intern FPGA Design role at YADRO.
