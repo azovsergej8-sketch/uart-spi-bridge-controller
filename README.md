@@ -47,5 +47,6 @@ To run the simulation in a local environment (ModelSim/QuestaSim):
 1. Clone the repository.
 2. Navigate to the `sim/` directory.
 3. Execute the simulation script in your simulator console: do run.do.
+
 Author: [SERGEY AZOV]
 Candidate for Intern FPGA Design roles at YADRO.
