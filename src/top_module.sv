@@ -1,11 +1,11 @@
-`include "CLK_driver"
-`include "GPIO"
-`include "UART"
-`include "SPI"
-`include "UART_receiver"
-`include "UART_transmitter"
-`include "SPI_clock_generate"
-`include "SPI_Core"
+`include "CLK_driver.sv"
+`include "GPIO.sv"
+`include "UART.sv"
+`include "SPI.sv"
+`include "UART_receiver.sv"
+`include "UART_transmitter.sv"
+`include "SPI_clock_generate.sv"
+`include "SPI_Core.sv"
 module top_module#(
   parameter CLK_FREQ = 50000000
 )(
