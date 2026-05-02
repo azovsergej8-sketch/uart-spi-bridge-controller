@@ -1,0 +1,7 @@
+work/
+transcript
+*.wlf
+*.log
+vsim.wlf
+__pycache__/
+*.vstf
