@@ -37,10 +37,6 @@ The controller uses a structured packet format: `[CMD] [LEN] [DATA...]`
 ## Verification Environment
 The design was verified using an automated environment that mimics real-world communication stress-tests.
 
-### Simulation Waveform Example
-*(Tip: Add a screenshot of your wave from EDA Playground to the docs/ folder and link it here)*
-![SPI Transaction Waveform](docs/waveforms.png)
-
 ## How to Run
 To run the simulation in a local environment (ModelSim/QuestaSim):
 
